@@ -1,0 +1,1 @@
+Write the funniest voicemail greeting as if a cat recorded it, a single line of at most 120 characters, as a deterministic Python program that writes exactly that line to /output/entry.txt.
